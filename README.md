@@ -1,1 +1,2 @@
 # My First Git Repo
+I am Jahnvi Manhas , a dedicated and detail-oriented professional with a strong interest in  digital forensics, cybersecurity. I have developed skills in ghidra,manageengine ,ftkimager,autopsy and I am passionate about applying my knowledge to solve real-world problems. I value integrity, teamwork, and continuous learning, and I am committed to contributing effectively to any organization I work with
